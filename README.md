@@ -1,4 +1,4 @@
-# AI Chatbot 🤖💬  
+# AI Chatbot Luka 🤖💬  
 
 A simple AI Chatbot built using HTML, CSS, and JavaScript. It can respond to basic user inputs with predefined answers.  
 
