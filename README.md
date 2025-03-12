@@ -16,7 +16,7 @@ A simple AI Chatbot built using HTML, CSS, and JavaScript. It can respond to bas
 ## How to Run 🚀  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/seu-usuario/ai-chatbot.git
+   git clone https://github.com/Andreia797/ai-chatbot.git
 2. Open the index.html file in your browser.
 3. Start chatting!
 
